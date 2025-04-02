@@ -28,6 +28,7 @@ python app.py
 ```
 
 🌊 **Lagoon AI – Smarter Conversations, Effortless Interaction!**  
-```
 
-This keeps it **professional, concise, and visually engaging**! Let me know if you need any tweaks. 🚀😊
+
+
+🚧 ITS UNDER DEVELOPMENT 🚧
